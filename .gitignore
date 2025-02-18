@@ -1,0 +1,3 @@
+# ignore ALL files in data and results directories
+data/
+results/
